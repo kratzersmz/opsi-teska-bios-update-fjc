@@ -1,0 +1,31 @@
+[Package]
+version: 1
+depends: 
+incremental: False
+
+[Product]
+type: localboot
+id: smart-learning-suite-17-1
+name: SMART Learning Suite 17.1
+description: SMART Learning Suite 17.1
+
+advice: 
+version: 17.1.398.0
+priority: 0
+licenseRequired: False
+productClasses: 
+setupScript: setup.opsiscript
+uninstallScript: uninstall.opsiscript
+updateScript: 
+alwaysScript: 
+onceScript: 
+customScript: 
+userLoginScript:
+
+[Changelog]
+smart-learning-suite-17-1 (17.1.398.0-1) stable; urgency=low
+
+	* initial: created by opsi-setup-detector
+
+-- opsisetupdetector.exe <info@uib.de>  14.09.2017 18:28:03
+
