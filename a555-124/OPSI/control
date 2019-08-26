@@ -4,8 +4,8 @@ depends:
 
 [Product]
 type: localboot
-id: bios-update-a555-124
-name: Bios Update A555
+id: teska-bios-update-a555-124
+name: teska-bios-update-a555-124
 description: Package to Update Bios on A555 to 1.24 (battery nag screen)
 advice: 
 version: 124

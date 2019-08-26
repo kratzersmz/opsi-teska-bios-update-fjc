@@ -4,8 +4,8 @@ depends:
 
 [Product]
 type: localboot
-id: bios-update-a514-209
-name: Bios Update A514
+id: teska-bios-update-a514-209
+name: teska-bios-update-a514-209
 description: Package to Update Bios on A514 to 209 (battery nag screen)
 advice: 
 version: 209
