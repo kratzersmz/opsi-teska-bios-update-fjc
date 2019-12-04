@@ -1,0 +1,22 @@
+[Package]
+version: 1
+depends: 
+
+[Product]
+type: localboot
+id: teska-bios-update-a512-209
+name: teska-Bios Update A512
+description: Package to Update Bios on A512 to 209 (battery nag screen)
+advice: 
+version: 209
+priority: 0
+licenseRequired: False
+productClasses: 
+setupScript: setup.opsiscript
+uninstallScript: 
+updateScript: 
+alwaysScript: 
+onceScript: 
+customScript: 
+userLoginScript: 
+
